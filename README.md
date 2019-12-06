@@ -1,6 +1,6 @@
 # RASA NLU para la identificación de intenciones | ES
 
-Citaré la pagina web oficial "Rasa NLU is an open-source natural language processing tool for intent classification, response retrieval and entity extraction in chatbots. For example, taking a sentence like".Este git solo se enfocará en la extracción de la intención vía API HTTP al cual se le pasará una petición en json con la expresión . 
+Citaré la pagina web oficial "Rasa NLU is an open-source natural language processing tool for intent classification, response retrieval and entity extraction in chatbots. For example, taking a sentence like".Este documento solo se enfocará en la extracción de la intención vía API HTTP al cual se le pasará una petición en json con la expresión . 
 
 ### Probado con :
 
